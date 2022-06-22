@@ -4,12 +4,13 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 22 Jun 2022 07:11:31 GMT
+// Generated on Wed, 22 Jun 2022 07:14:37 GMT
 
 
 import UIKit
 
 internal struct StyleDictionaryStruct {
+    internal static let globalBlue50 = #0765f2
     internal static let globalRed0 = #fff6f6
     internal static let globalRed10 = #fce4e4
     internal static let globalRed20 = #f5aeae

@@ -4,12 +4,13 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 22 Jun 2022 07:11:31 GMT
+// Generated on Wed, 22 Jun 2022 07:14:37 GMT
 
 
 import UIKit
 
 public enum StyleDictionaryEnum {
+    public static let globalBlue50 = #0765f2
     public static let globalRed0 = #fff6f6
     public static let globalRed10 = #fce4e4
     public static let globalRed20 = #f5aeae
