@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 23 Jun 2022 03:28:44 GMT
+// Generated on Thu, 23 Jun 2022 03:35:25 GMT
 
 
 import UIKit
@@ -23,7 +23,9 @@ internal struct StyleDictionaryStruct {
     internal static let globalFontSize0 = 12
     internal static let globalFontWeightsInter0 = Regular
     internal static let globalLetterSpacing0 = 0%
+    internal static let globalLg = 12px
     internal static let globalLineHeights0 = AUTO
+    internal static let globalMd = 8px
     internal static let globalParagraphSpacing0 = 0
     internal static let globalPx20 = 20px
     internal static let globalRed0 = #fff6f6
@@ -48,9 +50,11 @@ internal struct StyleDictionaryStruct {
     internal static let globalSizePercent100 = 100%
     internal static let globalSizeVh100 = 100vh
     internal static let globalSizeVw100 = 100vw
+    internal static let globalSm = 4px
     internal static let globalText = [object Object]
     internal static let globalTextCaseNone = none
     internal static let globalTextDecorationNone = none
+    internal static let globalXl = 20px
     internal static let sizeFontBase = CGFloat(16.00) /* the base size of the font */
     internal static let sizeFontLarge = CGFloat(32.00) /* the large size of the font */
     internal static let sizeFontMedium = CGFloat(16.00) /* the medium size of the font */

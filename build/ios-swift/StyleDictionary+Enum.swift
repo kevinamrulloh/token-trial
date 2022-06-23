@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 23 Jun 2022 03:28:44 GMT
+// Generated on Thu, 23 Jun 2022 03:35:25 GMT
 
 
 import UIKit
@@ -23,7 +23,9 @@ public enum StyleDictionaryEnum {
     public static let globalFontSize0 = 12
     public static let globalFontWeightsInter0 = Regular
     public static let globalLetterSpacing0 = 0%
+    public static let globalLg = 12px
     public static let globalLineHeights0 = AUTO
+    public static let globalMd = 8px
     public static let globalParagraphSpacing0 = 0
     public static let globalPx20 = 20px
     public static let globalRed0 = #fff6f6
@@ -48,9 +50,11 @@ public enum StyleDictionaryEnum {
     public static let globalSizePercent100 = 100%
     public static let globalSizeVh100 = 100vh
     public static let globalSizeVw100 = 100vw
+    public static let globalSm = 4px
     public static let globalText = [object Object]
     public static let globalTextCaseNone = none
     public static let globalTextDecorationNone = none
+    public static let globalXl = 20px
     public static let sizeFontBase = CGFloat(16.00) /* the base size of the font */
     public static let sizeFontLarge = CGFloat(32.00) /* the large size of the font */
     public static let sizeFontMedium = CGFloat(16.00) /* the medium size of the font */
