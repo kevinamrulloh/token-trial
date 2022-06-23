@@ -1,7 +1,8 @@
 .btn-primary {
   background-color: #e32728;
   color: #fff6f6;
-  padding: 0 20px;
+  padding: 20px;
+  height: 20px;
 }
 
 * {

@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 23 Jun 2022 03:07:03 GMT
+// Generated on Thu, 23 Jun 2022 03:28:44 GMT
 
 
 import UIKit
@@ -25,7 +25,7 @@ public enum StyleDictionaryEnum {
     public static let globalLetterSpacing0 = 0%
     public static let globalLineHeights0 = AUTO
     public static let globalParagraphSpacing0 = 0
-    public static let globalPx20 = 0 20px
+    public static let globalPx20 = 20px
     public static let globalRed0 = #fff6f6
     public static let globalRed10 = #fce4e4
     public static let globalRed20 = #f5aeae
