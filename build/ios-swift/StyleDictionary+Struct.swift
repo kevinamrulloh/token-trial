@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 22 Jun 2022 10:07:36 GMT
+// Generated on Wed, 22 Jun 2022 10:13:34 GMT
 
 
 import UIKit
@@ -25,7 +25,7 @@ internal struct StyleDictionaryStruct {
     internal static let globalLetterSpacing0 = 0%
     internal static let globalLineHeights0 = AUTO
     internal static let globalParagraphSpacing0 = 0
-    internal static let globalPx20 = 20px
+    internal static let globalPx20 = 0 20px
     internal static let globalRed0 = #fff6f6
     internal static let globalRed10 = #fce4e4
     internal static let globalRed20 = #f5aeae
